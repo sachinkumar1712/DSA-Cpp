@@ -1,32 +1,94 @@
-# 🚀 DSA in C++
+# 📚 DSA Roadmap
 
-Welcome to my DSA learning journey.
+## 🟢 Phase 1: C++ Fundamentals
 
-## 👨‍💻 About
-
-- Name: Sachin Kumar
-- B.Tech CSE Student
-- Language: C++
-- Goal: Crack Product Based Companies
+- ✅ Basics
+- ✅ Conditionals
+- ✅ Loops
+- ⏳ Patterns
+- ⏳ Functions
+- ⏳ Pointers
 
 ---
 
-## 📚 Topics
+## 🟡 Phase 2: Arrays & Searching
 
-- ✅ Linked List
 - ⏳ Arrays
+- ⏳ Searching
+- ⏳ Sorting
+- ⏳ Character Arrays
 - ⏳ Strings
+
+---
+
+## 🟠 Phase 3: Recursion
+
+- ⏳ Recursion
+- ⏳ Backtracking
+- ⏳ Bit Manipulation
+
+---
+
+## 🔵 Phase 4: STL
+
+- ⏳ STL
+- ⏳ Vector
+- ⏳ Pair
 - ⏳ Stack
 - ⏳ Queue
-- ⏳ Trees
-- ⏳ Graph
-- ⏳ Heap
-- ⏳ Dynamic Programming
+- ⏳ Priority Queue
+- ⏳ Set
+- ⏳ Map
+- ⏳ Unordered Map
 
 ---
 
-## 📅 Progress
+## 🟣 Phase 5: Linked List
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Linked List Basics | ✅ |
+- ⏳ Singly Linked List
+- ⏳ Doubly Linked List
+- ⏳ Circular Linked List
+
+---
+
+## 🟤 Phase 6: Stack & Queue
+
+- ⏳ Stack
+- ⏳ Queue
+- ⏳ Deque
+
+---
+
+## 🌳 Phase 7: Trees
+
+- ⏳ Binary Tree
+- ⏳ Binary Search Tree
+- ⏳ AVL Tree
+- ⏳ Heap
+
+---
+
+## 🌐 Phase 8: Graph
+
+- ⏳ Graph Representation
+- ⏳ BFS
+- ⏳ DFS
+- ⏳ Topological Sort
+- ⏳ Shortest Path
+- ⏳ Minimum Spanning Tree (MST)
+- ⏳ Disjoint Set Union (DSU)
+
+---
+
+## ⚡ Phase 9: Advanced Algorithms
+
+- ⏳ Greedy Algorithms
+- ⏳ Dynamic Programming
+- ⏳ Sliding Window
+- ⏳ Two Pointers
+- ⏳ Prefix Sum
+- ⏳ Segment Tree
+- ⏳ Fenwick Tree
+- ⏳ Trie
+- ⏳ Mathematics
+- ⏳ Number Theory
